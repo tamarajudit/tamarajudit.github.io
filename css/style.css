@@ -60,7 +60,7 @@ a:hover {
 
 .box-shadow-a,
 .button:hover {
-  box-shadow: 0 0 0 4px #cde1f8;
+  box-shadow: 0 0 0 4px #770000c9;
 }
 
 .display-5 {
@@ -809,7 +809,7 @@ a:hover {
 }
 
 .work-content .w-like a {
-  color: #0078ff;
+  color: #A91F1A;
 }
 
 .work-content .w-like .num-like {
@@ -853,7 +853,7 @@ a:hover {
 
 .testimonial-box .comit {
   font-size: 2rem;
-  color: #0078ff;
+  color: #A91F1A;
   background-color: #fff;
   width: 52px;
   height: 52px;
@@ -886,7 +886,7 @@ a:hover {
   color: #fff;
   padding: 0 15px 5px;
   overflow: hidden;
-  background-color: #0078ff;
+  background-color: #A91F1A;
   border-radius: 4px;
 }
 
@@ -940,7 +940,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul {
-  border-left: 4px solid #0078ff;
+  border-left: 4px solid #A91F1A;
   margin-top: 1rem;
 }
 
@@ -1151,13 +1151,13 @@ footer .credits a {
 }
 
 .button:hover {
-  background-color: #0062d3;
+  background-color: ##770000c9;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .button-a {
-  background-color: #0078ff;
+  background-color: ##770000c9;
   color: #fff;
   border-color: #cde1f8;
 }
