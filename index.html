@@ -24,11 +24,8 @@
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
 
- <script src="//cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+ <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
 
-<script src="sweetalert2.all.min.js"></script>
-<!-- Optional: include a polyfill for ES6 Promises for IE11 -->
-<script src="//cdn.jsdelivr.net/npm/promise-polyfill@8/dist/polyfill.js"></script>
 
 </head>
 
@@ -660,8 +657,14 @@
                           </div>
                         </div>
                         <div class="col-md-12">
-                          <!-- <button type="submit" class="button button-a button-big button-rouded">Send Message</button>-->
-                          <button onclick="alert('Message sent')" class="button button-a button-big button-rouded">Send Message</button>
+                          <button type="submit" onclick="boop()" style="background-color:#770000c9" class="button button-a button-big button-rouded">Send Message</button>-->
+
+                          <script>
+                            function boop() {
+                              Swal.fire('Email sent')
+                            }
+                          </script>
+                         <!-- <button onclick="alert('Message sent')" class="button button-a button-big button-rouded">Send Message</button> -->
 
                         
 
