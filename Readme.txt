@@ -1,6 +1,6 @@
-Thanks for downloading this theme!
+# Portfolio 
+[find it here](https://www.tamarajudit.github.io) 
 
-Theme Name: DevFolio
-Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+# Projects
+
+1. Geo [click here](https://www.behance.net/gallery/89060655/Geo-%28Club-de-Creatividad%29) 
