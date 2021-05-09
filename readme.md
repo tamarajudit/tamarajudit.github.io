@@ -1,5 +1,5 @@
 # Portfolio 
-[find it here](https://www.tamarajudit.github.io) 
+[find it here](https://tamarajudit.github.io) 
 
 # Projects
 
